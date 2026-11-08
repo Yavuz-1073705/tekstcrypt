@@ -1,6 +1,7 @@
 # tekstcrypt: tekst versleutelen met AES-256-GCM
 
 **Opdracht:** Symmetrische encryptie-applicatie (Werkplaats Security)
+**GitHub-repository:** https://github.com/Yavuz-1073705/tekstcrypt
 
 `tekstcrypt` is een Python-applicatie waarmee je tekst kunt versleutelen en ontsleutelen, via de command-line (CLI) of via een grafische interface (GUI). Alle cryptografie komt uit de bekende library [`cryptography`](https://cryptography.io). Ik heb zelf geen cryptografisch algoritme geschreven (*don't roll your own crypto*).
 
