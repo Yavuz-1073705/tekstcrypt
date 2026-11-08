@@ -28,8 +28,8 @@
 **Vereisten:** Python 3.10 of hoger (Tkinter zit standaard bij Python op Windows en macOS).
 
 ```bash
-git clone <url-van-deze-repo>
-cd encryptie-app
+git clone https://github.com/Yavuz-1073705/tekstcrypt.git
+cd tekstcrypt
 python -m venv .venv
 .venv\Scripts\activate          # Windows
 # source .venv/bin/activate     # Linux/macOS
